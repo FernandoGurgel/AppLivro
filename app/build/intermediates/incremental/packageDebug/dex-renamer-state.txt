@@ -1,0 +1,7 @@
+#Wed Oct 19 01:28:20 BRST 2016
+base.0=F\:\\aulaLivro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7bc69cb63f067472e2afd2b3f90db7bf18b4983e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\aulaLivro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_afd2f33aecf758202db80198561fd5b8b7b22028\\classes.dex
+base.1=F\:\\aulaLivro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_afd2f33aecf758202db80198561fd5b8b7b22028
+file.0=F\:\\aulaLivro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7bc69cb63f067472e2afd2b3f90db7bf18b4983e\\classes.dex

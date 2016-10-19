@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "294127769100",
+    "firebase_url": "https://livro-digital-9ebdb.firebaseio.com",
+    "project_id": "livro-digital-9ebdb",
+    "storage_bucket": "livro-digital-9ebdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294127769100:android:d558fec9c131f543",
+        "android_client_info": {
+          "package_name": "com.ifam.aulalivro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294127769100-evm4d5mii8q4gl8bdh4ost2d357ukpva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTcAkVMcDsr1-aCIUxb-u_VeNkDeTD0cY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
