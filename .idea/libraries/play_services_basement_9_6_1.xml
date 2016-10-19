@@ -1,4 +1,3 @@
-<<<<<<< e86c525549025ba83d12e2dee912ece8fd0e0ede
 <component name="libraryTable">
   <library name="play-services-basement-9.6.1">
     <CLASSES>
@@ -8,15 +7,4 @@
     <JAVADOC />
     <SOURCES />
   </library>
-=======
-<component name="libraryTable">
-  <library name="play-services-basement-9.6.1">
-    <CLASSES>
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
->>>>>>> implementando Layout de detalhe com comentario
 </component>

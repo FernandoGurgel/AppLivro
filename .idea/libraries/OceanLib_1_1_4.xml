@@ -1,4 +1,3 @@
-<<<<<<< e86c525549025ba83d12e2dee912ece8fd0e0ede
 <component name="libraryTable">
   <library name="OceanLib-1.1.4">
     <CLASSES>
@@ -8,15 +7,4 @@
     <JAVADOC />
     <SOURCES />
   </library>
-=======
-<component name="libraryTable">
-  <library name="OceanLib-1.1.4">
-    <CLASSES>
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.oceanbrasil/OceanLib/1.1.4/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.oceanbrasil/OceanLib/1.1.4/jars/classes.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
->>>>>>> implementando Layout de detalhe com comentario
 </component>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\aulaLivro\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+        "outputFile": "/home/fernando/AndroidStudioProjects/aulaLivro/F:\\aulaLivro\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 352
                 },
                 "from": {
-                    "file": "F:\\aulaLivro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-ky\\values.xml",
+                    "file": "/home/fernando/AndroidStudioProjects/aulaLivro/F:\\aulaLivro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-ky\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 251,
+                        "endOffset": 590
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 251,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/res/values-ky/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -108,9 +108,14 @@ public class biblioteca extends AppCompatActivity implements Request.RequestList
                         JSONArray livros = item.getJSONArray("livros");
                         for(int z =0; z < livros.length(); z++){
                             JSONObject livro = livros.getJSONObject(z);
+
                             Log.d("Debug",livro.getString("titulo")+","+livro.getString("autor"));
 
-                            Livro livro1 = new Livro(livro.getString("capa"),livro.getString("titulo"),livro.getString("autor"),
+                            ArrayList<String> comet;
+                            
+
+                            for (int w = 0; w )
+                            Livro livro1 = new Livro(item.getString("categoria"),livro.getString("capa"),livro.getString("titulo"),livro.getString("autor"),
                                     livro.getInt("paginas"),livro.getInt("ano"));
 
                             lista.add(livro1);

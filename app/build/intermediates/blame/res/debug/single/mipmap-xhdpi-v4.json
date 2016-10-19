@@ -1,6 +1,10 @@
 [
     {
-        "merged": "F:\\aulaLivro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_placeholder.png",
-        "source": "F:\\aulaLivro\\app\\build\\intermediates\\exploded-aar\\com.github.oceanbrasil\\OceanLib\\1.1.4\\res\\mipmap-xhdpi-v4\\ic_placeholder.png"
+        "merged": "/home/fernando/AndroidStudioProjects/aulaLivro/F:\\aulaLivro\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_placeholder.png",
+        "source": "/home/fernando/AndroidStudioProjects/aulaLivro/F:\\aulaLivro\\app\\build\\intermediates\\exploded-aar\\com.github.oceanbrasil\\OceanLib\\1.1.4\\res\\mipmap-xhdpi-v4\\ic_placeholder.png"
+    },
+    {
+        "merged": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_placeholder.png",
+        "source": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.github.oceanbrasil/OceanLib/1.1.4/res/mipmap-xhdpi-v4/ic_placeholder.png"
     }
 ]

@@ -174,6 +174,5 @@
     <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
     <orderEntry type="library" exported="" name="firebase-analytics-9.6.1" level="project" />
     <orderEntry type="library" exported="" name="OceanLib-1.1.4" level="project" />
-    <orderEntry type="library" exported="" name="android-android-24" level="project" />
   </component>
 </module>
