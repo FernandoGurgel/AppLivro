@@ -9,16 +9,12 @@ import android.util.Log;
 import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
-
 import com.oceanbrasil.libocean.Ocean;
 import com.oceanbrasil.libocean.control.http.Request;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.util.ArrayList;
-
 import static android.R.id.content;
 import static android.R.id.list;
 
