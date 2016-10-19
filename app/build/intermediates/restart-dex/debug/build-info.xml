@@ -1,37 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="armeabi-v7a,armeabi"
     api-level="23"
-    density="hdpi"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="708955697801277"
-    token="-3865398605189303486"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="3550505016393"
+    token="-8045005541697341309"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="57829" />
+        duration="367" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="6128" />
+        duration="49" />
     <task
         name="verifier"
-        duration="4396" />
+        duration="0" />
 
     <artifact
-        location="F:\aulaLivro\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="708955697801277"
+        timestamp="2940646679410"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\aulaLivro\app\build\outputs\apk\app-debug.apk"
+            location="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="3550505016393"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

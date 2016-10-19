@@ -3,291 +3,291 @@
 
     <item
         is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_4e696280dc1ac7211538cd581e51931506fb758c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e41612e7b3cbd8f593952f645c62a1ae6407c0ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_e139ec0b99cfe7de2cdef40d62715a2165272cf5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e6e72889faf999033c8df5d3de060e3c2c03c424\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ec758acd9f56cd4484090bb6d66ec60fb6f03287\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5c38f6e400f92ae5389c975911f97e87911e2180\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\aluno\.gradle\caches\modules-2\files-2.1\com.github.kevinsawicki\http-request\6.0\910c844ccd4653c9f6895dc4b7adce6372a4da03\http-request-6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="910c844ccd4653c9f6895dc4b7adce6372a4da03">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\http-request-6.0_55635cc91b71691ae2095d3f9404d70bb67cd15f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c931d2e6db2dad84fb8c327233a267db76a3d999\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_78282bed1d448d047fe095039379416f0bfcab54\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4788f8fd142d5bda7650df596371053d612eb69c">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_afd2f33aecf758202db80198561fd5b8b7b22028\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\aluno\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c1102fe990f0c142fe703b25a3f603d53032812f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_c3a372a9a8e635c80e4313d2da83f228db47b27d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_1e4bf301d2f2d52b4ff6bf6097ee6226f96b8d83\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.github.oceanbrasil\OceanLib\1.1.4\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="01a9471bb56e2e2d4d654f76e0192bd9b19a5afb">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.oceanbrasil-OceanLib-1.1.4_a064dce6bfc0c574de3a190672e7a2f2dbf866f0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_f981b2bf593c4b6188e5f66288ea4f15bcdd7a3d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_eb7fc858724c8308db0a408fe820a390158756bc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6d12df89ef21e36cf101f8640c46f4d50ade0999\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_06adc0b7d6a931a35522ccc2f413bdb75ba10a94\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0f571f62379fb85199a1abbdc9037eb127de8475\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\aluno\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7ff64101d02809c8f4d871cfd22aa44bf392e6da\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_77c4cd451416719a3af97d46336a0c607d047fda\classes.dex" />
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5d531d16439185ec5b9555f58e22dbffe44f24cc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3817c888848ab7fa52e8039be6b56be3e371f79b\classes.dex" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_dd74b4078a6c29341b38cf4e1f496bf514f32dd4/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\aluno\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_9669968e98dc6d2607a642e53ed0e62f1c220216\classes.dex" />
+        sha1="e7003fba9a58139a35322604fc040bc22f22c608">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4658e23343f4a7035f52fae9d761426217f8fef3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_4a26801dc89cd554136bdb5cee9a8b48aea32dc3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_d2657d28fed9fe3dfd7b26bafadd050f04e430dd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_8aa7e889c8fa6f8d01d6f5e331ceb92456323f99\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e8c6c87de7c2a1e2b2573cf5d4a636b47c0331bd">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7bc69cb63f067472e2afd2b3f90db7bf18b4983e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_5403e68e206aa0c005c62e5535f778768fc8f1ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_d7dd7e75e3c126014cd6adeca037decf6faae964\classes.dex" />
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8cf39dbf6327b5f68d33c17fa77a1cd20031a723/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1a9ebf7a689003375129f5811db94d3ab124096e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_280d4e91cd7055898accdb11ad99115e0049dfc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_68defa676445fb1eea2ef9704697684c7693b468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_538865a09f81f26cac4a528847c976575f068026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_d5efadecd1cdfd8d7baa8aedd0e5c6ab554430f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_947c9bf92134883b4dd3d1771f5a086e9cdddd88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_cd7c13a693ab8c13878cec83a186f5c8bc33743e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_29f321040f4e8dcfda14e02925827e1e99880b72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_60e546992b3808222bacbd81e6f31abc350a238e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_e127e9be9de1d6141b80557d8f7ddae82152741c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_90efc48f70ec7d70ede313eb161b3a8ba3e8defa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_4ccd5b67c93e9882d769efa19681ed726ff78c93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0b492c1019bbe3c940f72d3e55cd0b07ce36526f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_4724207a7ef85b22947a9c272e861c7f068cca9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6e2287369b00f549b29c9ae2ec735c9e361f0053\classes.dex" />
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_85d73b7871e39b4f6a32bdbfde6b597ac6ce9119/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.github.oceanbrasil/OceanLib/1.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="01a9471bb56e2e2d4d654f76e0192bd9b19a5afb">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.oceanbrasil-OceanLib-1.1.4_23e8178d783f7c67f9c754f59421d1b21ca0b792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/Android-sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8606867aea517e78396adeca998d1d6d1e4b87d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb2831f3e4f055fe2e9f9ba58f860a86ac521095">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_64dcd4ce108473f79bb9f9eb46518176974fbe70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_782b594e3e9e35d898190dad21f4c4e6f6b24936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_2f7720f16ff2795df147e4ff8e0f0e6e67187d16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_50cbee14fe5312396c33518af88700e71c1233c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_6f65148cfa180d7c07b66736954da1af373ffc45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_f36fb5fa5f1994a6dbabbbbab3a7fd812527f84a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_4ea9c9a4124fb551a0d325961713ba96f2bd10d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_45047cfaa84999af1905750d15cacc2005be2d4d\classes.dex" />
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b2d92f9c8aa60512f4765cc264a3e00d69e7f38c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\aulaLivro\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_215114e2a2f4725911e2ea64565645d9b6444376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/.gradle/caches/modules-2/files-2.1/com.github.kevinsawicki/http-request/6.0/910c844ccd4653c9f6895dc4b7adce6372a4da03/http-request-6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="910c844ccd4653c9f6895dc4b7adce6372a4da03">
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/http-request-6.0_fccdb38999a364c242f17789fe947e980bc41c7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="F:\aulaLivro\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_3987a437d7020412706bd490ff54a97038048cff\classes.dex" />
+        <dex dex="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_bf257a1e99031075adec49c8b5c708b9122958a2/classes.dex" />
     </item>
 
 </items>

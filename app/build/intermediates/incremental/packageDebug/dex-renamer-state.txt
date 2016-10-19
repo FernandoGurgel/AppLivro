@@ -1,7 +1,7 @@
-#Wed Oct 19 01:28:20 BRST 2016
-base.0=F\:\\aulaLivro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7bc69cb63f067472e2afd2b3f90db7bf18b4983e
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=F\:\\aulaLivro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_afd2f33aecf758202db80198561fd5b8b7b22028\\classes.dex
-base.1=F\:\\aulaLivro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_afd2f33aecf758202db80198561fd5b8b7b22028
-file.0=F\:\\aulaLivro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7bc69cb63f067472e2afd2b3f90db7bf18b4983e\\classes.dex
+#Wed Oct 19 10:55:18 PYST 2016
+base.0=/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4658e23343f4a7035f52fae9d761426217f8fef3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_64dcd4ce108473f79bb9f9eb46518176974fbe70/classes.dex
+base.1=/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_64dcd4ce108473f79bb9f9eb46518176974fbe70
+file.0=/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4658e23343f4a7035f52fae9d761426217f8fef3/classes.dex

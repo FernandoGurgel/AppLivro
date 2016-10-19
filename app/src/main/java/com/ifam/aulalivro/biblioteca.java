@@ -45,7 +45,7 @@ public class biblioteca extends AppCompatActivity implements Request.RequestList
         recyclerView.setAdapter(adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
-        Ocean.newRequest("http://gitlab.oceanmanaus.com/snippets/1/raw", this).get().send();
+        Ocean.newRequest("https://gist.githubusercontent.com/FernandoGurgel/f12e954b2af7a40f1e81d9b8f57d192d/raw/19144642ec0b9d90b3b3bef0251cab5ee1f9426f/livroDigital", this).get().send();
 
     }
 
@@ -111,12 +111,20 @@ public class biblioteca extends AppCompatActivity implements Request.RequestList
 
                             Log.d("Debug",livro.getString("titulo")+","+livro.getString("autor"));
 
-                            ArrayList<String> comet;
-                            
+                            ArrayList<String> nome = new ArrayList<String>();
+                            ArrayList<String> msg = new ArrayList<String>();
+                            JSONArray comentarios =  livro.getJSONArray("comentario");
 
-                            for (int w = 0; w )
+                            for (int w = 0; w < comentarios.length(); w++){
+                                JSONObject comentario = comentarios.getJSONObject(w);
+                                nome.add(comentario.getString("usuario"));
+                                msg.add(comentario.getString("mensagem"));
+                            }
+
+                            Log.d("fer",nome+" ");
+
                             Livro livro1 = new Livro(item.getString("categoria"),livro.getString("capa"),livro.getString("titulo"),livro.getString("autor"),
-                                    livro.getInt("paginas"),livro.getInt("ano"));
+                                    livro.getInt("paginas"),livro.getInt("ano"),nome,msg);
 
                             lista.add(livro1);
                         }

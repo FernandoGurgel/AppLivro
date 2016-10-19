@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/home/fernando/AndroidStudioProjects/aulaLivro/F:\\aulaLivro\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 252,
-                    "endOffset": 353
-                },
-                "from": {
-                    "file": "/home/fernando/AndroidStudioProjects/aulaLivro/F:\\aulaLivro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-gu\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 343,
-                        "endColumn": 252,
-                        "endOffset": 591
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
         "map": [
             {
