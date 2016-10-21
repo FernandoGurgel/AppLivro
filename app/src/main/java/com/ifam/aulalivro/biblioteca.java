@@ -8,15 +8,14 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 import android.widget.ProgressBar;
-import android.widget.Toast;
 import com.oceanbrasil.libocean.Ocean;
 import com.oceanbrasil.libocean.control.http.Request;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 import java.util.ArrayList;
-import static android.R.id.content;
-import static android.R.id.list;
+
+import static com.ifam.aulalivro.MyAdapter.BIBLIOTECA;
 
 public class biblioteca extends AppCompatActivity implements Request.RequestListener, MyAdapter.AdapterListener {
 
@@ -29,9 +28,7 @@ public class biblioteca extends AppCompatActivity implements Request.RequestList
 
         ArrayList<Livro> lista = new ArrayList<Livro>();
 
-        //for(Livro livro : lista);
-
-        MyAdapter adapter = new MyAdapter(this,lista);
+        MyAdapter adapter = new MyAdapter(this,lista,BIBLIOTECA);
 
 
         hideLoad(lista);
@@ -45,43 +42,6 @@ public class biblioteca extends AppCompatActivity implements Request.RequestList
 
     }
 
-    /*public ArrayList<Livro> iniciarLista(){
-        ArrayList<Livro> lista = new ArrayList<>();
-        // implementa
-        livro = new Livro();
-        livro.setTitulo("MOODLE 2 para Autores e Tutores - 3ª Edição");
-        livro.setAutor("Robson Santos da Silva");
-        livro.setAno(2013);
-        livro.setPaginas(168);
-        livro.setCapa("http://172.25.1.17/oceanbook/moodle2.jpg");
-        lista.add(livro);
-
-        livro = new Livro();
-        livro.setTitulo("NoSQL Essencial");
-        livro.setAutor("Pramod J. Sadalage / Martin Fowler");
-        livro.setAno(2013);
-        livro.setPaginas(216);
-        livro.setCapa("http://172.25.1.17/oceanbook/NoSQLEssencial.png");
-        lista.add(livro);
-
-        livro = new Livro();
-        livro.setTitulo("Fundamentos de Bancos de Dados com C#");
-        livro.setAutor("Michael Schmalz");
-        livro.setAno(2012);
-        livro.setPaginas(120);
-        livro.setCapa("http://172.25.1.17/oceanbook/BancoDeDadosComC.jpg");
-        lista.add(livro);
-
-        livro = new Livro();
-        livro.setTitulo("Jovem e Bem-Sucedido");
-        livro.setAutor("Juliano Niederauer");
-        livro.setAno(2013);
-        livro.setPaginas(192);
-        livro.setCapa("http://172.25.1.17/oceanbook/JovemeBem-Sucedido.jpg");
-        lista.add(livro);
-
-        return lista;
-    }*/
 
     private void hideLoad (ArrayList <Livro> lista){
         if (lista.size() > 0){
@@ -140,7 +100,7 @@ public class biblioteca extends AppCompatActivity implements Request.RequestList
 
         livros = lista;
 
-        MyAdapter adapter = new MyAdapter(this, lista);
+        MyAdapter adapter = new MyAdapter(this, lista,BIBLIOTECA);
 
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recycler);
 
@@ -153,13 +113,22 @@ public class biblioteca extends AppCompatActivity implements Request.RequestList
 
     @Override
     public void onItemClick(View view, int posison) {
+
         Log.d("infor", posison+" ");
         Livro livro= livros.get(posison);
 
-        Toast.makeText(this,posison + " "+livro.getTitulo(),Toast.LENGTH_SHORT).show();
+        ArrayList<String> relacionado = new ArrayList<String>();
+
+        for(Livro livro1:livros){
+            if(livro1.getCategoria().equals(livro.getCategoria()) && livro.getTitulo() != livro1.getTitulo())
+            relacionado.add(livro1.getCapa());
+        }
+
+        Log.d("fer",relacionado.size()+"");
 
         Intent intent = new Intent(this,DetalheActivity.class);
         intent.putExtra("livro",livro);
+        intent.putStringArrayListExtra("recomendacoes",relacionado);
         startActivity(intent);
     }
 }

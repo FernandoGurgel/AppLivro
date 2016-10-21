@@ -4,41 +4,34 @@
     api-level="23"
     density="xxhdpi"
     format="8"
-    plugin-version="2.2.1"
-    timestamp="3550505016393"
+    plugin-version="2.2.2"
+    timestamp="3280418976233"
     token="-8045005541697341309"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="367" />
+        duration="4480" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="49" />
+        duration="1187" />
     <task
         name="verifier"
-        duration="0" />
+        duration="63" />
 
     <artifact
-        location="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
+        location="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="2940646679410"
+        timestamp="3280418976233"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="3550505016393"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

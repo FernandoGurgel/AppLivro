@@ -1,4 +1,4 @@
-#Wed Oct 19 10:55:18 PYST 2016
+#Fri Oct 21 19:06:31 PYST 2016
 base.0=/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4658e23343f4a7035f52fae9d761426217f8fef3
 renamed.1=classes2.dex
 renamed.0=classes.dex

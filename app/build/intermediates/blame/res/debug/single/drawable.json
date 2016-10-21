@@ -140,6 +140,10 @@
         "source": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
     },
     {
+        "merged": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/res/merged/debug/drawable/face_avatar.png",
+        "source": "/home/fernando/AndroidStudioProjects/aulaLivro/app/src/main/res/drawable/face_avatar.png"
+    },
+    {
         "merged": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/home/fernando/AndroidStudioProjects/aulaLivro/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
     },

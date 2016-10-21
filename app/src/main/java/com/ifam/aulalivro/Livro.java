@@ -10,6 +10,10 @@ import java.util.ArrayList;
 
 public class Livro implements Serializable {
 
+
+    private int numComentario;
+
+
     private String categoria;
     private String capa;
     private String titulo;
@@ -22,6 +26,15 @@ public class Livro implements Serializable {
     public Livro() {
 
     }
+
+
+    public int getNumComentario(){
+        this.numComentario = mensagem.size();
+        return numComentario;
+    }
+
+
+
 
     public Livro(String cat, String capa, String titulo, String autor, int paginas, int ano, ArrayList<String> user, ArrayList<String> msg) {
         this.categoria = cat;
